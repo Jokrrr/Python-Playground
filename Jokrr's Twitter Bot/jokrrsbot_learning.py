@@ -12,7 +12,7 @@ api = tweepy.API(auth)
 
 # Send a DM to an account
 
-recipient_id = 1270664136670810112
+recipient_id = 1270664136670810112 # My Personal Twitter
 
 text = input("Please enter the message you would like to send\n")
 
